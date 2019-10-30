@@ -1,4 +1,4 @@
 python_nmap==0.6.1
-scapy==2.4.0
+scapy==2.4.1
 netifaces==0.10.9
 nmap==0.0.1
