@@ -28,6 +28,3 @@ adam@paradise:~$ sudo python3 mitm.py
 
 # Miscellaneous
 - Enterprise Digital Infrastructure project
-- Works on Linux-based distros only
-- May need to install web server such as [Apache](https://httpd.apache.org/) in order to redirect victim to your funny (**not illegal**, _I trust you_) web page
-- <img alt="Software License" src="https://img.shields.io/badge/license-GPL3-brightgreen.svg?style=flat-square">
